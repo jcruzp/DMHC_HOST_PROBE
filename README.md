@@ -1,5 +1,5 @@
 
-![Imagen](https://hackster.imgix.net/uploads/attachments/1351984/_7kodTbVLR5.blob?auto=compress%2Cformat&w=900&h=675&fit=min)
+![Imagen](https://hackster.imgix.net/uploads/attachments/1351356/img_4461_bwFKbqEmXt.jpg?auto=compress%2Cformat&w=740&h=555&fit=max)
 
 # DMHC HOST Probe
  Device Mesh for Health Check
@@ -34,7 +34,8 @@ The project description could be found at
 
 ```/wav folder``` Have all wav sound files resources. Need to be upload too to AWS IoT EduKit
 
-```/mp3 folder``` Have source mp3 sound files created using [Amazon Polly](https://aws.amazon.com/polly/?nc1=h_ls). They were converted to wav files using [online converter](https://www.online-convert.com/). Need to be upload too to AWS IoT EduKit
+```/mp3 folder``` Have source mp3 sound files created using [Amazon Polly](https://aws.amazon.com/polly/?nc1=h_ls). 
+       They were converted to wav files using [online converter](https://www.online-convert.com/). Need to be upload too to AWS IoT EduKit
 
 ```/lcad/DMHC_Host_Probe_Base.ldr``` [Cad lego](http://www.melkert.net/LDCad) file, with all step instructions for base contruction 
 
