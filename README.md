@@ -1,9 +1,17 @@
+
+![Imagen](https://hackster.imgix.net/uploads/attachments/1351984/_7kodTbVLR5.blob?auto=compress%2Cformat&w=900&h=675&fit=min)
+
 # DMHC HOST Probe
  Device Mesh for Health Check
  
  DMHC is a mesh of devices, each one with a Heart Rate, Oxygen Saturation SpO2 and Temperature, (HOST) probe to capture values.
  
  The probe using AWS IoT EduKit and some units sensores.
+ 
+ ![Imagen](https://hackster.imgix.net/uploads/attachments/1351986/dmhc_block_diagram_UNn0r63bXc.png?auto=compress%2Cformat&w=1280&h=960&fit=max)
+
+ 
+ [Can see video demo here](https://www.youtube.com/watch?v=ma2zLZVV3kU)
  
  
 ## Gettting Started
